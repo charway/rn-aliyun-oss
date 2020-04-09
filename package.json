@@ -1,0 +1,33 @@
+{
+  "name": "rn-aliyun-oss",
+  "title": "Rn Aliyun Oss",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charway/rn-aliyun-oss.git",
+    "baseUrl": "https://github.com/charway/rn-aliyun-oss"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "charway",
+    "email": "charway@qq.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.11.0",
+    "react-native": ">=0.62.0"
+  },
+  "devDependencies": {
+    "react": "^16.11.0",
+    "react-native": "^0.62.0"
+  }
+}
