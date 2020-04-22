@@ -1,7 +1,7 @@
 {
   "name": "rn-aliyun-oss",
   "title": "Rn Aliyun Oss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Aliyun OSS for React Native",
   "main": "index.js",
   "scripts": {
