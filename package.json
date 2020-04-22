@@ -1,8 +1,8 @@
 {
   "name": "rn-aliyun-oss",
   "title": "Rn Aliyun Oss",
-  "version": "1.0.0",
-  "description": "TODO",
+  "version": "1.0.1",
+  "description": "Aliyun OSS for React Native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
